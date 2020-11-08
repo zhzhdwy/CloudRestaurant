@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50f43447-e054-40ff-b4e5-d78577b38dea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1jDsYlyMllOEGwpD0MqtBNJIEMW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build CloudRestaurant">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="CloudRestaurant" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="MuYunBoss" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build CloudRestaurant" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="CloudRestaurant" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="CloudRestaurant" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build MuYunBoss" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="CloudRestaurant" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="MuYunBoss" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="CloudRestaurant" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="MuYunBoss" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build CloudRestaurant" />
+        <item itemvalue="Go Build.go build MuYunBoss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f43447-e054-40ff-b4e5-d78577b38dea" name="Default Changelist" comment="" />
+      <created>1603350047361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603350047361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1217" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1603943296090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1217" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603943296090" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1604839034759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604839034759" />
+    <state x="771" y="438" key="Github.CreateGistDialog" timestamp="1604839090598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="Github.CreateGistDialog/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604839090598" />
+    <state width="938" height="339" key="GridCell.Tab.0.bottom" timestamp="1604838902465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604838902465" />
+    <state width="530" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604025738519" />
+    <state width="465" height="297" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603880489478" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603776631805" />
+    <state width="938" height="339" key="GridCell.Tab.0.center" timestamp="1604838902465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="339" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604838902465" />
+    <state width="530" height="224" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604025738519" />
+    <state width="465" height="297" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603880489478" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603776631805" />
+    <state width="938" height="339" key="GridCell.Tab.0.left" timestamp="1604838902465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="339" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604838902465" />
+    <state width="530" height="224" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604025738519" />
+    <state width="465" height="297" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603880489478" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603776631804" />
+    <state width="938" height="339" key="GridCell.Tab.0.right" timestamp="1604838902465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="339" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604838902465" />
+    <state width="530" height="224" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604025738519" />
+    <state width="465" height="297" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603880489478" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603776631805" />
+    <state x="2002" y="119" key="SettingsEditor" timestamp="1604051603409">
+      <screen x="1920" y="-123" width="1080" height="1880" />
+    </state>
+    <state x="922" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603351168873" />
+    <state x="2002" y="119" key="SettingsEditor/1920.-123.1080.1880/0.0.1920.1040@1920.-123.1080.1880" timestamp="1604051603409" />
+    <state x="2002" y="242" key="SettingsEditor/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1604041672054" />
+    <state x="816" y="134" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603872420624" />
+    <state x="771" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604838730663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.-418.1080.1880@0.0.1920.1040" timestamp="1604838730663" />
+    <state x="771" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604037509301" />
+    <state x="771" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.-123.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604065136729" />
+    <state x="771" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603872474210" />
+    <state x="2691" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603776161691" />
+    <state x="2239" y="296" width="673" height="1228" key="search.everywhere.popup" timestamp="1604052589887">
+      <screen x="1920" y="-123" width="1080" height="1880" />
+    </state>
+    <state x="567" y="232" width="1195" height="679" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604037648954" />
+    <state x="2239" y="296" width="673" height="1228" key="search.everywhere.popup/1920.-123.1080.1880/0.0.1920.1040@1920.-123.1080.1880" timestamp="1604052589887" />
+    <state x="2510" y="91" width="672" height="1226" key="search.everywhere.popup/1920.-325.1080.1880/0.0.1920.1040@1920.-325.1080.1880" timestamp="1603882679735" />
+    <state x="1049" y="230" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603854553109" />
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603865630683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603865630683" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/ShopController.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dao/MemberDao.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
